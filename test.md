@@ -48,3 +48,10 @@ si cambiamos de rama esta informacion no aparecera por que no esta en esta rama
 ![imagen 13](img/imagen13.png)
 se mostraran los siguientes cambios cuando cuando estas navegando entre ramas 
 ![imagen 15](img/imagen15.png)
+
+## git commit --amend
+Este comando es para modificar el ultimo commit realizado con el log mostramos el ultimo commit y lo modificamos 
+![git commit --amend](img/imagen16.png)
+
+se mostrara la diferencia del neuvo commit con **git log**
+![nuevo commit](img/imagen17.png)
