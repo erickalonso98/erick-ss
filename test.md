@@ -1,0 +1,25 @@
+# Test de Comandos Basicos de git
+
+
+## git init
+Este es el comando inicial y el mas **importante** para crear un nuevo repositorio local
+![Imagen de git init](img/gitInit.png)
+
+## git status
+Este comando nos ayuda a saber el estado de la información de la rama actual
+![Imagen de git status](img/imagen2.png)
+
+## git add
+Este comando es para incluir los archivos en el espacio de trabajo
+![Imagen git add](img/imagen3.png)
+ya realizado este comando escribrimos **git status** para ver el estado
+![Imagen git status](img/imagen4.png)
+
+## git reset
+Este comando es para resetear el estado de información
+![Imagen git reset](img/imagen5.png)
+Ya escrito este comando nos mostrara todo como estaba el estado de información
+![Imagen git reset](img/imagen6.png)
+
+## git commit 
+este comando es para guardar los cambios y subirlo o tomarle una foto de este estado
