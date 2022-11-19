@@ -40,3 +40,9 @@ El comando **git branch** es crear y listar ramas paralelas
 
 Con este comando tambien nos puede mostrar la rama que creamos
 ![img git branch rama](img/imagen12.png)
+
+## git checkout
+Este comando igual es para crear ramas y navegar entre ellas
+![rama paralela](img/imagen14.png)
+si cambiamos de rama esta informacion no aparecera por que no esta en esta rama
+![imagen 13](img/imagen13.png)
