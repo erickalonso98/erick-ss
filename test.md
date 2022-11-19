@@ -34,3 +34,6 @@ Este comando es para mostrar los cambios o los conflitos en esta rama
 ![git diff](img/imagen9.png)
 Cambios del estado del archivo
 ![mas](img/imagen10.png)
+
+## git branch
+El comando **git branch** es crear y listar ramas paralelas 
