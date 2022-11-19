@@ -23,3 +23,4 @@ Ya escrito este comando nos mostrara todo como estaba el estado de información
 
 ## git commit 
 este comando es para guardar los cambios y subirlo o tomarle una foto de este estado
+![Imagen git commit](img/imagen7.png)
