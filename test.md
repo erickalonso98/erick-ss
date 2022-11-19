@@ -3,7 +3,7 @@
 
 ## git init
 Este es el comando inicial y el mas **importante** para crear un nuevo repositorio local
-![Imagen de git init](img/gitInit.png)
+![Imagen de git init](img/imagen1.png)
 
 ## git status
 Este comando nos ayuda a saber el estado de la información de la rama actual
