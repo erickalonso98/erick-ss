@@ -55,3 +55,7 @@ Este comando es para modificar el ultimo commit realizado con el log mostramos e
 
 se mostrara la diferencia del neuvo commit con **git log**
 ![nuevo commit](img/imagen17.png)
+
+
+## git merge
+Este comando es para unir ramas existentes
