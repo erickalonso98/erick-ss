@@ -37,3 +37,4 @@ Cambios del estado del archivo
 
 ## git branch
 El comando **git branch** es crear y listar ramas paralelas 
+![git branch](img/imagen11.png)
