@@ -46,3 +46,5 @@ Este comando igual es para crear ramas y navegar entre ellas
 ![rama paralela](img/imagen14.png)
 si cambiamos de rama esta informacion no aparecera por que no esta en esta rama
 ![imagen 13](img/imagen13.png)
+se mostraran los siguientes cambios cuando cuando estas navegando entre ramas 
+![imagen 15](img/imagen15.png)
