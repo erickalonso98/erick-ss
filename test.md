@@ -24,3 +24,11 @@ Ya escrito este comando nos mostrara todo como estaba el estado de información
 ## git commit 
 este comando es para guardar los cambios y subirlo o tomarle una foto de este estado
 ![Imagen git commit](img/imagen7.png)
+
+## git log
+Este comando es para mostrar los commit realizados o las fotos
+![git log](img/imagen8.png)
+
+## git diff
+Este comando es para mostrar los cambios o los conflitos en esta rama
+![git diff](img/imagen9.png)
