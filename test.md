@@ -32,3 +32,5 @@ Este comando es para mostrar los commit realizados o las fotos
 ## git diff
 Este comando es para mostrar los cambios o los conflitos en esta rama
 ![git diff](img/imagen9.png)
+Cambios del estado del archivo
+![mas](img/imagen10.png)
