@@ -51,3 +51,7 @@ Este comando es para modificar el ultimo commit que se haya hecho
 Si volvemos a escribir **git log**
 para ver el commit que modificamos
 ![git log](img/imagen17.png)
+
+## git branch -d name_rama
+Este comando es para eliminar una rama
+![img](img/imagen19.png)
