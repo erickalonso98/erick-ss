@@ -70,3 +70,7 @@ Este comando es para subir el proyecto a un repositorio remoto
 ## git clone
 Este comando es para clonar el proyecto entramos a nuestro repositorio y copiamos la direccion del repositorio
 ![clone](img/imagen23.png)
+aqui usamos el comando para clonar el proyecto en otro durectorio
+![clone](img/imagen24.png)
+aqui se muestra la clonacion del proyecto
+![clone](img/imagen25.png)
