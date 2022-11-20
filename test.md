@@ -62,3 +62,7 @@ Este comando mostrara el nombre remoto del repositorio
 
 ## git branch -M main
 Este comando es para modificar la rama master y nombralo la rama **Main**
+
+## git push
+Este comando es para subir el proyecto a un repositorio remoto
+![img 22](img/imagen22.png)
