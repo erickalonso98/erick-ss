@@ -66,3 +66,7 @@ Este comando es para modificar la rama master y nombralo la rama **Main**
 ## git push
 Este comando es para subir el proyecto a un repositorio remoto
 ![img 22](img/imagen22.png)
+
+## git clone
+Este comando es para clonar el proyecto entramos a nuestro repositorio y copiamos la direccion del repositorio
+![clone](img/imagen23.png)
