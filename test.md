@@ -36,5 +36,18 @@ Cambios del estado del archivo
 ![mas](img/imagen10.png)
 
 ## git branch
-El comando **git branch** es crear y listar ramas paralelas 
+El comando **git branch** es crear y listar ramas paralelas como lo esta mostrando en esta imagen
 ![git branch](img/imagen11.png)
+y para mostra las ramas que tenemos tambien con el comando **git branch**
+![git branch](img/imagen12.png)
+
+## git checkout 
+Este comando es para cambiar y navegar a diferentes ramas
+![git checkout ](img/imagen14.png)
+
+## git commit --amend
+Este comando es para modificar el ultimo commit que se haya hecho
+![git commit --amend](img/imagen16.png)
+Si volvemos a escribir **git log**
+para ver el commit que modificamos
+![git log](img/imagen17.png)
