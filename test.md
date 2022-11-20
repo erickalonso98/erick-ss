@@ -55,3 +55,10 @@ para ver el commit que modificamos
 ## git branch -d name_rama
 Este comando es para eliminar una rama
 ![img](img/imagen19.png)
+
+## git remote
+Este comando mostrara el nombre remoto del repositorio
+![imagen 20](img/imagen20.png)
+
+## git branch -M main
+Este comando es para modificar la rama master y nombralo la rama **Main**
